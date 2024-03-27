@@ -1,4 +1,4 @@
-# Homework for Docker lesson from Andrey Ermilov (https://github.com/AndreyErmilov/aaa-docker-hw)
+# Homework for Docker lesson from Andrey Ermilov (`https://github.com/AndreyErmilov/aaa-docker-hw`)
 Docker lecture repository at [Avito's Analytics Academy](https://avito-analytics-academy.ru/) Data Science course.
 
 ### Step 1: 
